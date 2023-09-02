@@ -5,7 +5,7 @@ jobs:
   io:
     runs-on: ubuntu-latest
     steps:
-      - name: set-var
+      - name: hello
         id: set-var
         shell: python
         run: |
